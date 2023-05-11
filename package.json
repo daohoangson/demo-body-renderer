@@ -6,5 +6,8 @@
     "url": "git+https://https://github.com/daohoangson/demo-body-renderer.git"
   },
   "author": "Dao Hoang Son <daohoangson@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@vercel/node": "^2.14.2"
+  }
 }
